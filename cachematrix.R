@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following functions create a special matrix object, compute the inverse
+## of the matrix value and save it in chache, or retrieve the inverse
+## matrix from the cache.
 
 ## Function create a special matrix object, 
 ## containing a list of function:
